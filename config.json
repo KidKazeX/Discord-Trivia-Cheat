@@ -1,8 +1,8 @@
 {
     "bot": {
-        "token": "-- CENSORED --",
-        "trivia_bot_usernames": ["impulse"],
-        "realistic_mode": false,
+        "token": "ODUzNjM5Njc3MzYyMTc2MDAx.GJUWcz.QEo40YvnBa0OFM2g2dfwnznoKpvs26b31Fsags",
+        "trivia_bot_usernames": ["Kunal"],
+        "realistic_mode": true,
         "stealth_mode": true,
         "time_between_keystrokes": 300,
         "average_reading_speed": 10
